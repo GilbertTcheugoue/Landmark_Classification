@@ -6,7 +6,7 @@ This project aims to  build models to automatically predict the location of the 
 
 # Project Steps
 
-1. Create a CNN to Classify Landmarks (from Scratch) - Here, We visualized the dataset, processed it for training, and then built a convolutional neural network from scratch to classify the landmarks. Then we  described some of our decisions around data processing and how we chose our network architecture. We then exported our best network using Torch Script.
+1. Create a CNN to Classify Landmarks (from Scratch) -  Here, We visualized the dataset, processed it for training, and then built a convolutional neural network from scratch to classify the landmarks. Then we  described some of our decisions around data processing and how we chose our network architecture. We then exported our best network using Torch Script.
    
 2. Create a CNN to Classify Landmarks (using Transfer Learning) - Next, We investigated different pre-trained models and decided on one to use for this classification task. Along with training and testing this transfer-learned network, we explained how we arrived at the pre-trained network we chose. We also export our best transfer learning solution using Torch Script
    
@@ -19,7 +19,7 @@ This project aims to  build models to automatically predict the location of the 
    
 2. Open a terminal and navigate to the directory of the repository.
    
-3; Download and install Miniconda
+3. Download and install Miniconda
 
 4. Create a new conda environment with Python 3.7.6:
    
